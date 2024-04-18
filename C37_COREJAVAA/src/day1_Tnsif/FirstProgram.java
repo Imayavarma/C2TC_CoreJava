@@ -1,4 +1,4 @@
-package Day1;
+package day1_Tnsif;
 
 public class FirstProgram {
 	public static void main(String[] args) {

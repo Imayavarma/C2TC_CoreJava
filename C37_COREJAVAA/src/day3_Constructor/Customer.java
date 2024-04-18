@@ -1,4 +1,4 @@
-package Day3_TnsIfCoreJava;
+package day3_Constructor;
 
 public class Customer {
 	private String customerName;

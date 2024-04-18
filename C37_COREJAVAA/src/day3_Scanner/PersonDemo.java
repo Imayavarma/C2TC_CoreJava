@@ -1,4 +1,4 @@
-package Day3_TnsIfCoreJava;
+package day3_Scanner;
 
 import java.util.Scanner;
 
@@ -24,9 +24,10 @@ public class PersonDemo {
 
 		System.out.println(person);
 		TaxCalculation calc = new TaxCalculation();
-		calc.calculateTax(person);
+		calc.calculateTax(person); // tax calculation
 		System.out.println("After calculating tax : ");
 		System.out.println(person);
 		ob.close();
 	}
+
 }

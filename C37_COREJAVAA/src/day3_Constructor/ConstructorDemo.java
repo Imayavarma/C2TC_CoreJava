@@ -1,4 +1,4 @@
-package Day3_TnsIfCoreJava;
+package day3_Constructor;
 
 import java.util.Scanner;
 

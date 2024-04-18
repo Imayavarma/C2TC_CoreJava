@@ -1,4 +1,4 @@
-package Day3_TnsIfCoreJava;
+package day3_Encapsulation;
 
 public class OopsConceptDemo {
 	private int serialNum;
@@ -31,17 +31,7 @@ public class OopsConceptDemo {
 
 	@Override
 	public String toString() {
-		return "OopsConceptDemo [Serial Number=" + serialNum + ",name=" + name + ", age=" + age + "]";
+		return "OopsConceptDemo [Serial Number=" + serialNum + ", name=" + name + ", age=" + age + "]";
 	}
-}
 
- class EncapsulationDemo {
-	public static void main(String[] args) {
-
-		OopsConceptDemo obj = new OopsConceptDemo();
-		obj.setSerialNum(101);
-		obj.setName("Pooja");
-		obj.setAge(20);
-		System.out.println(obj);
-	}
 }

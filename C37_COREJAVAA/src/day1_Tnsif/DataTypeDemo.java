@@ -1,4 +1,4 @@
-package Day1;
+package day1_Tnsif;
 
 public class DataTypeDemo {
 	public static void main(String[] args) {
